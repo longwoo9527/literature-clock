@@ -31,9 +31,9 @@ Quotes are kept in `litclock_annotated.csv`. These are converted into a `.json` 
 > 若需过滤（大部分）NSFW 引用，请使用 sfw 查询参数。例如：https://literature-clock.jenevoldsen.com?sfw=true
 > 
 
-将 .csv 引用转换为 .json 引用
+# 将 .csv 引用转换为 .json 引用
 
 引用内容存储在 litclock_annotated.csv 文件中。通过 csv_to_json.R 脚本可将其转换为每分钟对应的 .json 文件。运行该 R 脚本前，请先安装 R，并使用包管理器 {packrat} 安装指定版本的依赖包：packrat::restore()。
-其他相关项目
+# 其他相关项目
 
 - **[litime](https://github.com/ikornaselur/litime)** - 一款命令行工具，执行时会显示与当前时间匹配的引用。
