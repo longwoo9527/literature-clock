@@ -18,10 +18,10 @@ Quotes are kept in `litclock_annotated.csv`. These are converted into a `.json` 
 
 - **[litime](https://github.com/ikornaselur/litime)** - A command line tool that shows a timely quote when it is executed.
 
-# literature-clock
+# 文学时钟
 
 基于 Jaap Meijers 的作品和创意开发的文学时间引用时钟
-（Jaap Meijers 的 电子阅读器时钟）。
+（[Jaap Meijers](http://www.eerlijkemedia.nl/)  的 [电子阅读器时钟](https://www.instructables.com/id/Literary-Clock-Made-From-E-reader/)）。
 
 可通过 theme 查询参数强制切换亮色或暗色主题。例如：https://literature-clock.jenevoldsen.com?theme=dark
 
